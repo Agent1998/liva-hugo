@@ -11,7 +11,7 @@ tags:
 - React
 - Python
 - Movie
-type: Movie
+type: post
 
 ---
 # Heading 1
