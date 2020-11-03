@@ -4,13 +4,10 @@ date: 2019-10-29T04:07:47+00:00
 image: "/uploads/one-piece-film-z.jpg"
 description: this is meta description
 categories:
-- movie
+- Movie
 tags:
-- Photos
-- Game
-- HTML
-- Python
 - New
+- Movie
 type: post
 
 ---
