@@ -1,10 +1,9 @@
 ---
-title: one
+title: 'One Piece Film: Gold'
 date: 2019-10-29T10:07:47.000+06:00
-image: images/featured-post/post-1.jpg
+image: "/uploads/one-piece-film-gold.jpg"
 description: this is meta description
-categories:
-- Android And Gaming
+categories: []
 tags:
 - Photos
 - Game
