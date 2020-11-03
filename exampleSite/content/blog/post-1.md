@@ -1,16 +1,17 @@
 ---
 title: 'One Piece Film: Gold'
-date: 2019-10-29T10:07:47.000+06:00
+date: 2019-10-29T04:07:47+00:00
 image: "/uploads/one-piece-film-gold.jpg"
 description: this is meta description
-categories: []
+categories:
+- movie
 tags:
 - Photos
 - Game
 - React
 - Python
-- New
-type: featured
+- Movie
+type: Movie
 
 ---
 # Heading 1
