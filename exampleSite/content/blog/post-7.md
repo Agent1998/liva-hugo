@@ -1,7 +1,7 @@
 ---
 title: Baron Omatsuri And The Secret Island
 date: 2019-10-29T10:07:47.000+06:00
-image: images/post/post-4.jpg
+image: "/uploads/baron.jpg"
 description: this is meta description
 categories:
 - Movie
