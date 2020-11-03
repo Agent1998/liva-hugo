@@ -8,11 +8,6 @@ description: วันพีซ สแตมปีด จัดฉายรอ�
 categories:
 - Movie
 tags:
-- Photos
-- Game
-- HTML
-- Python
-- New
 - Movie
 type: post
 
