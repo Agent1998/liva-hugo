@@ -1,7 +1,7 @@
 ---
 title: 'One Piece Film: Z'
 date: 2019-10-29T04:07:47+00:00
-image: images/post/post-3.jpg
+image: "/uploads/one-piece-film-z.jpg"
 description: this is meta description
 categories:
 - movie
