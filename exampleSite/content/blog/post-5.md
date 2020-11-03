@@ -1,7 +1,7 @@
 ---
 title: Strong World
 date: 2019-10-29T04:07:47+00:00
-image: images/post/post-2.jpg
+image: "/uploads/strong-world.jpg"
 description: this is meta description
 categories:
 - Movie
