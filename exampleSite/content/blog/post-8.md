@@ -1,28 +1,20 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/post/post-5.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Go Language"
+title: 'One Piece: Stampede'
+date: 2019-10-29T10:07:47.000+06:00
+image: "/uploads/one-piece-stampede.jpg"
+description: วันพีซ สแตมปีด จัดฉายรอบปฐมทัศน์ครั้งแรกในโลกที่โอซากะสเตชันซิตีซีเนมา
+  ในเมืองโอซากะ ประเทศญี่ปุ่นเมื่อวันที่ 1 สิงหาคม พ.ศ. 2562 และได้ออกฉายอย่างเป็นทางการในโรงภาพยนตร์ทั่วประเทศญี่ปุ่นมากกว่า
+  325 แห่งเมื่อวันที่ 9 สิงหาคม พ.ศ. 2562
+categories: []
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- HTML
+- Python
+- New
+type: post
 
-# post type
-type: "post"
 ---
-
 # Heading 1
 ## Heading 2
 ### Heading 3
